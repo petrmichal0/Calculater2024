@@ -60,18 +60,18 @@ After starting, go to [http://localhost:3000](http://localhost:3000) in your web
 
 <table>
   <tr>
-    <th>Homepage</th>
     <th>Calculator Interface</th>
   </tr>
   <tr>
     <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/2af0a439-f8aa-4890-bf83-0407d1a0d018" width="300" height="300" alt="Homepage">
-    </td>
-    <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/745a3558-32dd-400a-8c65-b5e7c01a12f4" width="300" height="300" alt="Calculator Interface">
+      <img src="https://github.com/user-attachments/assets/e0e0290f-3a01-412e-944f-17780431c1c3" width="300" height="300" alt="Calculator Interface">
     </td>
   </tr>
 </table>
+
+![image]()
+
+
 
 ## Demo (link)
 
@@ -82,16 +82,23 @@ Check out the live demo of the application [here](https://calculater-v1.netlify.
 ```css
 Calculater2024/
 ├── public/
+│   ├── favicon.ico
 │   ├── index.html
-│   └── styles.css
+│   ├── logo192.png
+│   ├── logo512.png
+│   ├── manifest.json
+│   └── robots.txt
 ├── src/
 │   ├── components/
-│   │   ├── Header.js
-│   │   ├── Footer.js
+│   │   ├── DigitButton.js
+│   │   ├── OperationButton.js
 │   ├── App.js
+│   ├── index.css
 │   └── index.js
-├── package.json
-└── README.md
+├── .gitignore
+├── README.md
+├── package-lock.json
+└── package.json
 ```
 
 ## Technologies Used
