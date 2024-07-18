@@ -7,7 +7,7 @@ Calculater2024 is a web application designed to perform basic arithmetic calcula
 ![Static Badge](https://img.shields.io/badge/status-online-brightgreen)
 
 ## Quick Look
-<img src="https://github.com/user-attachments/assets/478544d2-9be4-4121-af72-09f896c1cb7f" width="700" alt="Calculater2024 App Demo">
+<img src="https://github.com/user-attachments/assets/bb39cd01-49b2-4600-9ef3-329b1205bc7d" width="700" alt="Calculater2024 App Demo">
 
 ## Table of Content
 - [Project Title and Description](#project-title-and-description)
