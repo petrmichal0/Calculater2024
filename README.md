@@ -69,10 +69,6 @@ After starting, go to [http://localhost:3000](http://localhost:3000) in your web
   </tr>
 </table>
 
-![image]()
-
-
-
 ## Demo (link)
 
 Check out the live demo of the application [here](https://calculater-v1.netlify.app/).
