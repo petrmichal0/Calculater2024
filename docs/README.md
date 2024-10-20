@@ -62,9 +62,7 @@ After starting, go to [http://localhost:3000](http://localhost:3000) in your web
   </tr>
   <tr>
     <td style="border: 1px solid black; width: 310px; height: 310px; text-align: center;">
-      <a href="https://github.com/user-attachments/assets/e0e0290f-3a01-412e-944f-17780431c1c3" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/user-attachments/assets/e0e0290f-3a01-412e-944f-17780431c1c3" width="300" height="300" alt="Calculator Interface">
-      </a>
+      <img src="https://github.com/user-attachments/assets/e0e0290f-3a01-412e-944f-17780431c1c3" width="300" height="300" alt="Calculator Interface">
     </td>
   </tr>
 </table>
@@ -103,8 +101,9 @@ Calculater2024/
 
 ## Third-Party Libraries
 
-* React Router
+* None
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the LICENSE file for details.
+
